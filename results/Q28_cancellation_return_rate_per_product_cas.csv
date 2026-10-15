@@ -1,0 +1,8 @@
+product,total_orders,cancelled,returned,loss_rate_pct
+Monitor,163,35,36,43.56
+Tablet,179,34,43,43.02
+Laptop,173,35,39,42.77
+Chair,178,45,28,41.01
+Printer,181,35,38,40.33
+Phone,156,31,31,39.74
+Desk,170,35,32,39.41

@@ -1,0 +1,6 @@
+order_status,total_orders
+Cancelled,250
+Returned,247
+Pending,237
+Shipped,235
+Delivered,231

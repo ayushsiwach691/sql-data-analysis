@@ -1,0 +1,11 @@
+order_id,order_date,product,order_status
+ORD200256,2025-06-30,Chair,Returned
+ORD201107,2025-06-30,Tablet,Cancelled
+ORD200176,2025-06-28,Tablet,Pending
+ORD200773,2025-06-28,Phone,Cancelled
+ORD200882,2025-06-28,Phone,Delivered
+ORD201039,2025-06-28,Desk,Cancelled
+ORD200226,2025-06-27,Desk,Delivered
+ORD200064,2025-06-25,Printer,Cancelled
+ORD200055,2025-06-24,Printer,Cancelled
+ORD200163,2025-06-24,Tablet,Cancelled
